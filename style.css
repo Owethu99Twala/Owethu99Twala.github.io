@@ -1,0 +1,41 @@
+.links {
+   margin-left: 40px;
+
+}
+
+.links>a{
+    
+    margin: 10px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+
+.links>a:hover{
+
+    color: rgb(26, 168, 235);
+}
+
+body {
+
+    background-image: url("https://cdn.pixabay.com/photo/2020/02/27/03/05/space-4883247_960_720.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+h1 {
+
+    color: white;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+}
+
+p{
+    
+    margin: 10vh 40vh 0vh 130vh;
+    color: white;
+}
+
+
